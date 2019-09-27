@@ -66,11 +66,6 @@ $(document).ready(function() {
       ],
       answers: "To own a lighthouse and live at the top of it"
     },
-    {
-      question: "Whose stand up routine does Michael do in Diversity Day ep?",
-      choices: ["Jerry Seinfeld", "Chris Rock", "Dave Chappelle", "Ali Wong"],
-      answers: "Chris Rock"
-    }
   ];
 
   // Set up game
